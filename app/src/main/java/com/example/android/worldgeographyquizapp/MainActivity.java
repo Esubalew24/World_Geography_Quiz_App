@@ -11,7 +11,6 @@ import android.widget.RadioButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import static android.R.attr.duration;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -22,8 +21,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-
-
     // SubmitAnswer method will be excuted when result button is clicked
 
 
@@ -32,7 +29,6 @@ public class MainActivity extends AppCompatActivity {
 
 
         /* Question 1
-         *
          * Check if the correct answer is chosen for Question Number 1.
          * After submit result is clicked, it will turn the correct answer with green and the wrong red color.
          */
@@ -60,7 +56,6 @@ public class MainActivity extends AppCompatActivity {
 
 
         /* Question 2
-         *
          * Check if the correct answer is chosen for Question Number 2.
          * After submit result is clicked, it will turn the correct answer with green and the wrong red color.
          */
@@ -88,7 +83,6 @@ public class MainActivity extends AppCompatActivity {
         }
 
         /* Question 3
-         *
          * Check if the correct answer is chosen for Question Number 3.
          * After submit result is clicked, it will turn the correct answer with green and the wrong red color.
          */
@@ -142,9 +136,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
-
         /* Question 5
-         *
          * Check if the correct answers/checkboxes are selected for Question Number 5.
          * After submit result is clicked, it will turn the correct answer with green and the wrong red color.
          */
@@ -174,10 +166,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
-
-
         /* Question 6
-         *
          * Check if the correct answer is chosen for Question Number 6.
          * After submit result is clicked, it will turn the correct answer with green and the wrong red color.
          */
@@ -204,15 +193,11 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
-        /* Question 7
-         *
+        /* Question 7*
          * Check if the correct answer is chosen for Question Number 7.
          * After submit result is clicked, it will turn the correct answer with green and the wrong red color.
        */
 
-        /*
-         *  gives feedback whether answer is correct.
-         */
 
 
             EditText checkAnswerSeven = (EditText) findViewById(R.id.question_7_answer);
@@ -229,16 +214,11 @@ public class MainActivity extends AppCompatActivity {
             }
 
 
-
         /* Question 8
-         *
          * Check if the correct answer is chosen for Question Number 8.
          * After submit result is clicked, it will turn the correct answer with green and the wrong red color.
         */
 
-         /*
-         *  gives feedback whether answer is correct.
-         */
 
 
         EditText checkAnswerEight = (EditText) findViewById(R.id.question_8_answer);
@@ -264,9 +244,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
-
         /* Question 9
-         *
          * Check if the correct answers/checkboxes are selected for Question Number 9.
          * After submit result is clicked, it will turn the correct answer with green and the wrong red color.
          */
@@ -297,9 +275,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
-
         /* Question 10
-         *
          * Check if the correct answers/checkboxes are selected for Question Number 10.
          * After submit result is clicked, it will turn the correct answer with green and the wrong red color.
          */
