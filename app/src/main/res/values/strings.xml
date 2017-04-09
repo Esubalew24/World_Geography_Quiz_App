@@ -1,0 +1,104 @@
+<resources>
+
+    <string name="quiz_text">Take World Geography Quiz </string>
+
+    <!-- Question 1 -->
+
+    <string name="question_1">Question 1 </string>
+    <string name="question_1_text">What is the capital city of Finland?</string>
+    <string name="question_1_option_1">Stockholm</string>
+    <string name="question_1_option_2">Oslo</string>
+    <string name="question_1_option_3">Helsinki</string>
+    <string name="question_1_option_4">St. Petersberg</string>
+
+
+    <!-- Question 2 -->
+
+    <string name="question_2">Question 2 </string>
+    <string name="question_2_text">Which country is the largest country in the world by area?</string>
+    <string name="question_2_option_1">China</string>
+    <string name="question_2_option_2">Russia</string>
+    <string name="question_2_option_3">United States of America</string>
+    <string name="question_2_option_4">Brazil</string>
+
+    <!-- Question 3 -->
+
+    <string name="question_3">Question 3 </string>
+    <string name="question_3_text">Kiev is the capital of which country?</string>
+    <string name="question_3_option_1">Kazakhstan</string>
+    <string name="question_3_option_2">Russia</string>
+    <string name="question_3_option_3">Ukraine</string>
+    <string name="question_3_option_4">Belarus</string>
+
+
+    <!-- Question 4 -->
+
+    <string name="question_4">Question 4 </string>
+    <string name="question_4_text">Where is this place?</string>
+    <string name="question_4_option_1">Paris</string>
+    <string name="question_4_option_2">Beijing</string>
+    <string name="question_4_option_3">Washington D.C</string>
+    <string name="question_4_option_4">Rome</string>
+
+
+    <!-- Question 5 -->
+
+    <string name="question_5">Question 5 </string>
+    <string name="question_5_text">Choose cities located in Europe</string>
+    <string name="question_5_option_1">Tokyo</string>
+    <string name="question_5_option_2">Berlin</string>
+    <string name="question_5_option_3">Dubai</string>
+    <string name="question_5_option_4">Tallin</string>
+
+
+    <!-- Question 6 -->
+
+    <string name="question_6">Question 6 </string>
+    <string name="question_6_text">What is the capital of Ethiopia?</string>
+    <string name="question_6_option_1">Addis Ababa</string>
+    <string name="question_6_option_2">Pretoria</string>
+    <string name="question_6_option_3">Cairo</string>
+    <string name="question_6_option_4">Nairobi</string>
+
+    <!-- Question 7 -->
+
+    <string name="question_7">Question 7 </string>
+    <string name="question_7_text">What is the capital city of Netherlands?</string>
+    <string name="question_7_answers">Answer</string>
+
+    <!-- Question 8 -->
+
+    <string name="question_8">Question 8 </string>
+    <string name="question_8_text">What is the capital city of Brazil?</string>
+    <string name="question_8_answers">Answer</string>
+
+
+    <!-- Question 9 -->
+
+    <string name="question_9">Question 9 </string>
+    <string name="question_9_text">Select countries which are located in South America:</string>
+    <string name="question_9_option_1">Mexico</string>
+    <string name="question_9_option_2">Algeria</string>
+    <string name="question_9_option_3">Argentina</string>
+    <string name="question_9_option_4">Bolivia</string>
+
+
+    <!-- Question 10 -->
+
+    <string name="question_10">Question 10 </string>
+    <string name="question_10_text">Which countries are located in Africa?</string>
+    <string name="question_10_option_1">Estonia</string>
+    <string name="question_10_option_2">Chad</string>
+    <string name="question_10_option_3">Morocco</string>
+    <string name="question_10_option_4">Chile</string>
+
+
+
+    <string name="app_name">World Geography Quiz App</string>
+    <!-- Results -->
+    <string name="result_button">"Result"</string>
+    <string name="results">"Your Score is: "</string>
+    <string name="less_that_seven"> You have less knowledge about our world geography</string>
+    <string name="more_than_seven"> You really know our world quite well</string>
+    <string name="full_score">Wow You are World Master</string>
+</resources>
